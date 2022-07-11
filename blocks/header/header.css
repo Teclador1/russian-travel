@@ -1,0 +1,13 @@
+.header {
+    background-color: #2A2C2F;
+    padding-top: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media (max-width: 700px) {
+    .header {
+        padding-top: 12px;
+    }
+}

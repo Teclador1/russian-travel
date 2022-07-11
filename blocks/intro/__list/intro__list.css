@@ -1,0 +1,17 @@
+.intro__list {
+    font-family: 'Inter Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+ 
+.intro__list span {
+    font-family: 'Inter Regular';
+    font-weight: 400;
+}

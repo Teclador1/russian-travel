@@ -1,0 +1,11 @@
+.place__website {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    align-self: end;
+}
+
+@media  (max-width: 750px) {
+    .place__website {
+        align-self: start;
+    }
+}

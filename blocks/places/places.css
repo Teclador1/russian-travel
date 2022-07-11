@@ -1,0 +1,10 @@
+.places {
+    background-color: #2A2C2F;
+    padding-top: 92px;
+ }
+
+ @media (max-width: 425px) {
+    .places {
+        padding-top: 70px;
+    }
+ }
