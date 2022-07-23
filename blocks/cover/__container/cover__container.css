@@ -1,0 +1,16 @@
+.cover__container {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 500px) {
+    .cover__container {
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cover__container {
+        max-width: 254px;
+    }
+}

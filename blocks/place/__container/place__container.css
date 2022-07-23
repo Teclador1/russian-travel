@@ -1,0 +1,23 @@
+.place__container {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    min-width: 440px; /*если что, придётся удалить*/
+}
+
+@media (max-width: 920px) {
+    .place__container {
+        min-width: 360px;
+    }
+}
+
+@media (max-width: 880px) {
+    .place__container {
+        min-width: 340px;
+    }
+}
+
+@media (max-width: 768px) {
+    .place__container {
+        min-width: 284px;
+    }
+}
