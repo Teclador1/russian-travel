@@ -29,7 +29,7 @@
 
 @media (max-width: 425px) {
     .place__image {
-        width: 303px; /* оригинальная ширина – 320px*/
+        width: 320px;
         height: 320px;
     }
 }
@@ -37,7 +37,7 @@
 @media (max-width: 330px) {
     .place__image {
         position: relative;
-        left: -9px;
+        left: -7px;
     }
 }
 
