@@ -9,9 +9,15 @@
     }
 }
 
+@media (max-width: 1024px) {
+    .intro__container {
+        width: 91vw;
+    }
+}
+
 @media (max-width: 768px) {
     .intro__container {
-        max-width: 720px;
+        width: 94vw;
     }
 }
 
