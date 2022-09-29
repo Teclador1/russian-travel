@@ -10,7 +10,7 @@
     font-family: 'Inter';
     src: local('Inter Bold'),
         url(fonts/Inter/Inter-Bold.woff2) format('woff2');
-    font-weight: 700;
+    font-weight: 500;
     font-style: normal;
 }
 
